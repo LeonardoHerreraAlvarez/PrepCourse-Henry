@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Repo de prueba del mod 2 del prepcourse de Henry
+Cómo crear un repo en github, clonarlo en el repo local
